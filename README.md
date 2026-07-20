@@ -1,2 +1,2 @@
 # Statistics-ML-Project-
-The statistics analysis, Visualization and Temporary deployment is done.
+In this file, statistics analysis, Visualization and Temporary deployment is done.
